@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { FaHome, FaInfo } from 'react-icons/fa';
-import { BrowserRouter as Link } from 'react-router-dom';
+import '../App.css';
+// import { FaHome, FaInfo } from 'react-icons/fa';
+// import { BrowserRouter as Link } from 'react-router-dom';
 
 export class Navbar extends Component {
   render() {
